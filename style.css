@@ -1,0 +1,16 @@
+body{
+  background-color: red;
+}
+
+img{
+  height: 500px;
+  border: 10px solid black;
+}
+
+.gundam{
+  color:yellow;
+}
+
+p{
+  color: white;
+}

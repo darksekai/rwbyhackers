@@ -1,0 +1,24 @@
+
+.sky{
+  background-color: #75AADB;
+  height: 30%;
+  width: 100%;
+}
+
+.flag {
+    height: 150px;
+    width: 200px;
+    display: inline-block;
+}
+
+.sun {
+    background-image: url(http://orig01.deviantart.net/23ec/f/2014/320/a/1/batman_2099_by_magnusss-d86mjkb.jpg);
+    background-size: 130px 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.size div {
+    height: 30%;
+    width: 100%;
+}

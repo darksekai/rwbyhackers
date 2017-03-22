@@ -1,0 +1,28 @@
+.flag {
+    height: 400px;
+    width: 700px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px none;
+}
+
+.flag div {
+    height: 100%;
+    width: 30%;
+    padding:inherit;
+    margin: inherit;
+    border: 0px none;
+}
+
+.sides{
+  background-color: #CC0000;
+  display: inline-block;
+}
+
+.leaf{
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/3b/f0/be/3bf0be3cea061043b3ec22b98abecbc2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+}
