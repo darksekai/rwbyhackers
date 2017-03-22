@@ -1,0 +1,23 @@
+
+body {
+  background-color:rgb(217, 95, 95);
+  color:rgb(85, 215, 106);
+
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+h1{
+  text-align: center;
+}
+
+div{
+  background-color: rgb(208, 124, 42);
+  width: 50%;
+  margin: auto;
+  border: 6px dashed rgb(255, 255, 255);
+  padding: 15px;
+}
