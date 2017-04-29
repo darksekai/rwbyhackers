@@ -1,0 +1,28 @@
+body {
+    background-image: url(http://24.media.tumblr.com/214c7f8f451b4d58a5210c9d57a29d79/tumblr_mpcexrFqr91r17lmbo1_500.gif);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+div.top {
+    margin-bottom: 160px;
+}
+h1 {
+    color: rgb(219, 72, 18);
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+p {
+    color: rgb(236, 9, 9);
+    font-size: 40px;
+    border: rgb(180, 89, 14) dashed 10px;
+    background-color: rgba(88, 249, 80,0.5);
+}
+
+.carousel-inner .item img {
+    margin: 0 auto;
+}
+
+.center {
+  text-align: center;
+}
